@@ -1,1 +1,5 @@
 # AD9834_Drivers
+
+
+## SPI通信
+SPI-MOSI接SDA,SPI-CLK接SLK,FS,PS拉低即可
